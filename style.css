@@ -1,0 +1,16 @@
+body{
+    background-color:rgb(132, 0, 255);
+}
+h1{
+    background-color: rgb(238, 255, 0);
+}
+img{
+ border-width: 2px;   
+ border:solid;
+}
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
